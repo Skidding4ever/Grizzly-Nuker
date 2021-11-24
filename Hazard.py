@@ -44,8 +44,8 @@ def main():
                                     ██║  ██║██╔══██╗╚══███╔╝██╔══██╗██╔══██╗██╔══██╗            ,`.-~/ .'`---`'. \~-.`,
                                     ███████║███████║  ███╔╝ ███████║██████╔╝██║  ██║             '`  | | \ _ / | |   `'
                                     ██╔══██║██╔══██║ ███╔╝  ██╔══██║██╔══██╗██║  ██║           ,     \  \ | | /  /     ,
-> Created by Rdimo#6969             ██║  ██║██║  ██║███████╗██║  ██║██║  ██║██████╔╝            ;`'.,_\  `-'-'  /_,.'`;
-> https://rdimo.github.io/CheatAway ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝              '-._  _.-'^'-._  _.-'                                      '''.replace('█', f'{Fore.WHITE}█{Fore.LIGHTGREEN_EX}') + f'''   
+> by: Skidding4ever                 ██║  ██║██║  ██║███████╗██║  ██║██║  ██║██████╔╝            ;`'.,_\  `-'-'  /_,.'`;
+> https://github.com/Skidding4ever  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝              '-._  _.-'^'-._  _.-'                                      '''.replace('█', f'{Fore.WHITE}█{Fore.LIGHTGREEN_EX}') + f'''   
 {Fore.WHITE}────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────{Fore.RESET}
 {Fore.RESET}[{Fore.GREEN}1{Fore.RESET}]{Fore.BLACK} Nuke Account                                |{Fore.RESET}[{Fore.GREEN}10{Fore.RESET}]{Fore.BLACK} Disable Account
 {Fore.RESET}[{Fore.GREEN}2{Fore.RESET}]{Fore.BLACK} Unfriend all friends                        |{Fore.RESET}[{Fore.GREEN}11{Fore.RESET}]{Fore.BLACK} Status Changer
